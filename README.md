@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -81,19 +80,19 @@
     <!-- Elemento de Audio Oculto -->
     <audio id="birthdaySong" loop>
         <!-- REEMPLAZA EL LINK DE ABAJO CON EL DE TU CANCIÓN (puede ser un link de Dropbox, Drive directo o un archivo .mp3 local) -->
-        <source src=musica.mp3" type="audio/mpeg">
+        <source src="musica.mp3" type="audio/mpeg">
     </audio>
 
     <div class="card">
         <div style="font-size: 50px; margin-bottom: 10px;">❤️</div>
-        <h1>¡Feliz Cumpleaños!</h1>
-        <p>Hoy celebramos que existes y que haces este mundo mucho más bonito.</p>
+        <h1>¡Feliz Cumpleaños corazon!</h1>
+        <p>Hoy celebro de todo corazon que existes y que haces mi mundo mucho más bonito.</p>
         
-        <button class="btn-surprise" id="magicBtn" onclick="magicStart()">Presiona para tu regalo ✨</button>
+        <button class="btn-surprise" id="magicBtn" onclick="magicStart()">Presiona aqui ✨</button>
 
         <div id="extra-content">
             <p>Gracias por ser mi razón de sonreír cada mañana.</p>
-            <span class="final-text">¡Te amo por siempre! 🌹</span>
+            <span class="final-text">¡Te amo mucho att Darwin jeje! 🌹</span>
         </div>
     </div>
 
